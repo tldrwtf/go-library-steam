@@ -22,7 +22,7 @@ A Go library for creating Steam bots with features like Steam Guard handling, ca
 3. Initialize the Go module:
 
     ```sh
-    go mod init library
+    go mod init go-library-steam
     ```
 
 ## Configuration
