@@ -145,10 +145,9 @@ Player Summaries:
     "avatarmedium": "https://avatars.steamstatic.com/avatarmedium.jpg",
     "avatarfull": "https://avatars.steamstatic.com/avatarfull.jpg"
 }
+```
 Player Inventories:
-
-json
-Copy code
+```
 {
     "assets": [
         {
