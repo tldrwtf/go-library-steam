@@ -54,7 +54,7 @@ package main
 import (
     "log"
 
-    "library/steam"
+    "go-library-steam/steam"
 )
 
 func main() {
